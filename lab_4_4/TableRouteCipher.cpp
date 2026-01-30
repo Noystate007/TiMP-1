@@ -1,8 +1,8 @@
 /**
  * @file TableRouteCipher.cpp
- * @author Ваше Имя
+ * @author Руслан Жидков
  * @version 1.0
- * @date 04.12.2026
+ * @date 04.01.2026
  * @brief Файл реализации табличного маршрутного шифра
  */
 
